@@ -1,4 +1,4 @@
-#include <CppUTest/TestHarness.h>
+#include "tester.hpp"
 #include "type_traits.hpp"
 
 TEST_GROUP(type_traits)

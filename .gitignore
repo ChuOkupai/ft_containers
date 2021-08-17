@@ -1,3 +1,5 @@
 *.d
 *.o
-tester
+*.out
+ft_tester
+std_tester
